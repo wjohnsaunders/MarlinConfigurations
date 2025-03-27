@@ -8,19 +8,19 @@ Ender-3 V1 with Creality BLTouch kit and CR-10S controller board (for the bigger
 
 TwoTrees SP-5 that has been highly modified. Several configs exist
 
-###Sapphire Plus V2
+### Sapphire Plus V2
 
 Standard components build with the standard Marlin UI.
 
-###Sapphire Plus V2 MKS UI
+### Sapphire Plus V2 MKS UI
 
 Standard components build with the MKS UI as the machine originally ships.
 
-###Sapphire Plus V2 BLTouch
+### Sapphire Plus V2 BLTouch
 
 Addition of a BLTouch and does Z stepper alignment with the probe (no belt on my model).
 
-###Sapphire Plus V2 BLTouch TMC_UART
+### Sapphire Plus V2 BLTouch TMC_UART
 
 Addition of a BLTouch and does Z stepper alignment with the probe (no belt on my model).
 Also TMC2209 stepper drivers have been added to the MKS Robin Nano V1.2 and using the
